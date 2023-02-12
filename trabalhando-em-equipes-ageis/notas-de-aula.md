@@ -1,4 +1,4 @@
-[🔙 Voltar](../README.md)
+[🔙 Voltar](https://github.com/jpmjunior/dio-desafio-github-primeiro-repositorio)
 
 # Trabalhando em equipes ágeis
 
