@@ -1,4 +1,7 @@
 # Introdução ao desenvolvimento moderno de software
+
+Anotações do curso da [DIO](https://dio.me) ministrado pelo [Prof. Denilson Bonatti](https://www.linkedin.com/in/denilsonbonatti/).
+
 ## Introdução
  - Qual o problema a ser resolvido?
  - Quais as plataformas devo utilizar? desktop, web ou mobile?
