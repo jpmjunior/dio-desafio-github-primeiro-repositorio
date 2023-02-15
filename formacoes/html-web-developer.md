@@ -1,4 +1,4 @@
-# Roteiro formação HTML Web Developer da [DIO](https://dio.me)
+# Roteiro formação HTML Web Developer da [DIO](https://dio.me) (21 horas)
 
 ## Primeiros passos com HTML 
 - Entendendo comunicação client x server - Curso 2h
