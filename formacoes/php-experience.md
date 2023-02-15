@@ -1,4 +1,4 @@
-# Roteiro da formação PHP-Experience da [DIO](https://dio.me)
+# Roteiro da formação PHP-Experience da [DIO](https://dio.me) (40 horas)
 
 ## Fundamentos de desenvolvimento de software com PHP
 - Introdução ao desenvolvimento de software moderno - Curso 2h ✔️
