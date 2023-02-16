@@ -11,7 +11,7 @@
 - Desafios de código - Formação JavaScript Developer - Desafio de código 1h
 - Materiais complementares - Aprenda a programar do zero com JavaScript - Curso 1h
 
-## JavaScript para web: Fundamentos de HTML, CSS e APIs na prática
+## ⚠️ JavaScript para web: Fundamentos de HTML, CSS e APIs na prática
 - Introdução ao desenvolvimento web com JavaScript - Curso 1h
 - Criando um projeto com HTML/CSS para listagem de pokémon - Curso 2h
 - Dominando o protocolo HTTP e integrando com a PokeAPI - Curso 4h
@@ -25,7 +25,7 @@
 - Promises e assincronismo com JavaScript - Curso 1h
 - Materiais Complementares - Dominando conceitos avançados em JavaScript - Curso 1h
 
-## Currículo online com HTML, CSS e JavaScript: Da prototipação ao deploy
+## ⚠️ Currículo online com HTML, CSS e JavaScript: Da prototipação ao deploy
 - Criando e estilizando uma página de portifólio profissional com CSS e JavaScript - Curso 4h
 - Publicando seu portifólio profissional no GitHub Pages - Desafio de projeto 3h
 - Materiais comlementares - Currículo online com HTML, CSS e JavaScript: Da prototipação ao deploy - Curso 1h
