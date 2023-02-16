@@ -17,7 +17,7 @@
 - Construindo um layout responsivo para o site do discord com CSS - Desafio de projeto 1h
 - Materiais complementares - Trabalhando com layouts no CSS - Curso 1h
 
-## Refinando os estilos CSS das nossas páginas
+## ⚠️ Refinando os estilos CSS das nossas páginas
 - Pseudo elementos e pseudo classes - Curso 4h
 - Transições e animações - Curso 3h
 - Boas práticas e convenções no CSS - Curso 2h
