@@ -63,3 +63,11 @@ Repositório criado para o desafio de projeto.
 
 ### Site oficial do Mysql
 [https://www.mysql.com](https://www.mysql.com)
+
+### Distribuições linux para programadores
+[https://sempreupdate.com.br/melhores-distribruicoes-linux-para-programar](https://sempreupdate.com.br/melhores-distribruicoes-linux-para-programar)
+
+[https://programadorviking.com.br/linux-para-desenvolvedores-as-13-melhores-distros-para-programar](https://programadorviking.com.br/linux-para-desenvolvedores-as-13-melhores-distros-para-programar)
+
+### Aplicativos para Linux
+[https://sempreupdate.com.br/melhores-aplicativos-do-ubuntu-que-voce-deveria-usar](https://sempreupdate.com.br/melhores-aplicativos-do-ubuntu-que-voce-deveria-usar)
